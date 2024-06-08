@@ -1,6 +1,7 @@
 # GS-EcoAzul-AI
 
 ## INTEGRANTES
+
 Lucca Matteoni - RM98146 
 Vitor Santos - RM553621  
 Keven Pereira - RM553215
